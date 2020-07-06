@@ -22,15 +22,5 @@ data_bonusaction = [
             "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
             "For further details, see the <i>Cast a spell</i> action."
         ]
-    },
-    {
-        title: "Use class feature",
-        icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
-        description: "Use a racial or class feature that uses a bonus action",
-        reference: "See class page for more information.",
-        bullets: [
-
-        ]
     }
 ]
