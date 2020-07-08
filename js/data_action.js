@@ -2,15 +2,12 @@ data_action = [
     {
         title: "Single Fire",
         icon: "crossed-swords",
-        subtitle: "Ranged Attack",
-        description: "Perform a melee or ranged attack with your weapon",
-        reference: "PHB, pgs. 192,194-195.",
+        subtitle: "Common Ranged Attack",
+        description: "Fire a single bullet from your weapon",
+        reference: "Core, pg. 105-105",
         bullets: [
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
-            "When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the <i>Offhand attack</i> bonus action).",
-            "You may replace one of your melee attacks with a <i>Grapple</i> or a <i>Shove</i>.",
-            "Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
-            "Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers."
+		"Roll Ref + Weapon Skill + Weapon Accuracy + 1d10 vs Hit Numbers Table",
+		"You may only fire up to your weapon's maximum Rate of Fire (ROF) in a single turn"
         ]
     },
     {
