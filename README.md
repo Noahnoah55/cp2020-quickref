@@ -8,6 +8,18 @@ WIP
 ==============
 Current Progress:
 - [ ] My Custom Cyberpunk 2020 Rules 
+  - [ ] Non-Combat
+    - [ ] Movement
+    - [ ] Skill Checks
+    - [ ] Fumbles
+  - [ ] Ranged Combat
+    - [ ] Actions
+    - [ ] Modifiers
+  - [ ] Melee Combat
+    - [ ] Weapons
+    - [ ] Martial Arts
+  - [ ] Taking Damage
+  - [ ] Tables
 - [ ] 2020 Corebook RAW
 - [ ] New Icons
 
