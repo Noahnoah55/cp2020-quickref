@@ -15,7 +15,7 @@ data_action = [
         title: "Three Round Burst",
         icon: "bullets",
         subtitle: "3-shot ranged attack",
-        description: "Fire three shots from your weapon",
+        description: "Fire three shots from your weapon for better damage and accuracy",
         reference: "Core, pg. 106.",
         bullets: [
 		"Roll: Ref + Weapon Skill + Weapon Accuracy + 1d10",
@@ -38,16 +38,16 @@ data_action = [
         ]
     },
     {
-        title: "Grapple",
-        icon: "grab",
-        subtitle: "Special melee attack",
-        description: "Attempt to grab a creature or wrestle with it",
-        reference: "PHB, pg. 195.",
+        title: "Suppresive Fire",
+        icon: "machine-gun",
+        subtitle: "Creates a 'fire zone' of bullets",
+        description: "Fire several bullets into an area, creating an AOE threat to incoming enemies",
+        reference: "Core, pg. 106-107",
         bullets: [
-            "You can use the <i>Attack</i> action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your grapple must be no more than one size larger than you, and it must be within your reach.",
-            "Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you succeed, you subject the target to the grappled condition (its speed is set to 0)."
+		"Create a zone of bullets with a DC equal to the number of bullets fired divided by the width of the zone in meters",
+		"Minimum zone width is 2 meters",
+		"Characters that pass by the zone must make a save of 1d10 + REF + Athletics Skill against the DC of the zone. On a failed roll they take 1d6 bullets to random locations",
+		"Zones can overlap to increase their DC"
         ]
     },
     {
