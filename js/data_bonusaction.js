@@ -1,20 +1,43 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
+        title: "Melee Weapon Attack",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
+        subtitle: "Any attack made with a weapon",
         description: "Attack with your off hand",
-        reference: "PHB, pgs. 192,194-195.",
+        reference: "Core, pg. 111-112.",
         bullets: [
-            "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
-            "Perform a single attack with a different light melee weapon that you're holding in the other hand.",
-            "You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
-            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
+		"Attacker Rolls: Ref + Skill + 1d10",
+		"Defender Rolls: Ref + Skill + 1d10",
+		"Attacker uses Melee or Fencing based on weapon used. (Swords, rapiers and monoblades use fencing, all other melee weapons use melee)",
+		"Defender can use Martial arts, Fencing, Melee, Dodge, or Athletics depending on the situation and referee decision",
+		"If the attacker's roll is higher than the defeder's, the attacker deals damage equal to the roll listed on the weapon, plus a bonus based on the character's body type (see Cyberpunk 2020 Core Rulebook page 112)"
         ]
     },
     {
-        title: "Cast a spell",
-        icon: "magic-swirl",
+        title: "Strike",
+        icon: "mailed-fist",
+        subtitle: "Cast time of 1 bonus action",
+        description: "Cast a spell with a casting time of 1 bonus action",
+        reference: "PHB, pg. 192.",
+        bullets: [
+            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
+            "For further details, see the <i>Cast a spell</i> action."
+        ]
+    },
+    {
+        title: "Kick",
+        icon: "foot-trip",
+        subtitle: "Cast time of 1 bonus action",
+        description: "Cast a spell with a casting time of 1 bonus action",
+        reference: "PHB, pg. 192.",
+        bullets: [
+            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
+            "For further details, see the <i>Cast a spell</i> action."
+        ]
+    },
+    {
+        title: "Block/Parry",
+        icon: "riot-shield",
         subtitle: "Cast time of 1 bonus action",
         description: "Cast a spell with a casting time of 1 bonus action",
         reference: "PHB, pg. 192.",
