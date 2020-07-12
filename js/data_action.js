@@ -42,7 +42,7 @@ data_action = [
         icon: "machine-gun",
         subtitle: "Creates a 'fire zone' of bullets",
         description: "Fire several bullets into an area, creating an AOE threat to incoming enemies",
-        reference: "Core, pg. 106-107",
+        reference: "Core, pg. 106-107.",
         bullets: [
 		"Create a zone of bullets with a DC equal to the number of bullets fired divided by the width of the zone in meters",
 		"Minimum zone width is 2 meters",
