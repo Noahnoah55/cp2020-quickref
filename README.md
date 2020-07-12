@@ -8,6 +8,9 @@ CONTRIBUTING
 ==============
 Pull requests are very welcome, content is located in the js folder's data files.
 
+Text content is especially needed.
+If you aren't comfortable editing the js data files by hand, feel free to open an issue and I will gladly add any tiles or rule updates.
+
 WIP
 ==============
 Current Progress:
