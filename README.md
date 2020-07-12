@@ -1,8 +1,12 @@
 CyberPunk 2020 Quick Reference
 ==============
 
-Quick reference sheet for CP2020.
+Quick reference sheet for CP2020, based on https://github.com/crobi/dnd5e-quickref
 Available at https://noahnoah55.github.io/cp2020-quickref/
+
+CONTRIBUTING
+==============
+Pull requests are very welcome, content is located in the js folder's data files.
 
 WIP
 ==============
