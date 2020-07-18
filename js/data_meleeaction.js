@@ -1,4 +1,4 @@
-data_bonusaction = [
+data_meleeaction = [
     {
         title: "Melee Weapon Attack",
         icon: "crossed-swords",
