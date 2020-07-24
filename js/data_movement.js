@@ -14,7 +14,7 @@ data_movement = [
 		title: "Leap",
 		icon: "wingfoot",
 		subtitle: "Leap up to 3/4 your MA in meters",
-		description: "Leap up to 3/4 you MA in meters"
+		description: "Leap up to 3/4 you MA in meters",
 		reference: "Core, pg. 26.",
 		bullets: [
 			"Leap up to 3/4 your MA in meters from a running start",
