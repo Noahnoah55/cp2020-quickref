@@ -1,6 +1,8 @@
 CyberPunk 2020 Quick Reference
 ==============
 
+Abandoned due to the release of Cyberpunk Red, feel free to fork
+
 Quick reference sheet for CP2020, based on https://github.com/crobi/dnd5e-quickref
 
 Available at https://noahnoah55.github.io/cp2020-quickref/
